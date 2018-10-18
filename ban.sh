@@ -29,7 +29,7 @@ $CLIENT getpeerinfo >$NODES_FILE
 # Extract IP address
 NODES_TO_BAN=`jq -r '.[] | .addr'  $NODES_FILE`
 
-# Country shortcode to ban, eg. CN is China
+# Country shortcode to ban, eg. CN is China, in ISO 3166 Country Code Format
 Shortcode=CN
 
 # geoiplookup function
