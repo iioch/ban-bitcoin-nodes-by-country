@@ -27,7 +27,7 @@ cd ban-bitcoin-nodes-by-country
 chmod u+x ban.sh   
 ./ban.sh
 ````
-Adjust country shortcode in ban.sh to your needs:
+Adjust ISO 3166 Country Codes in ban.sh to your needs:
 ````
 Shortcode=CN
 ````
