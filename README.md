@@ -1,5 +1,6 @@
 # ban-bitcoin-nodes-by-country
-Ban all connected bitcoin nodes by country 
+Fed up with one country sucking all ressources out of you node? Has your team just lost against that country? 
+Then just ban all connected bitcoin nodes by filtering that country. 
 
 ## Requirements for the bash script (ban.sh)
 
