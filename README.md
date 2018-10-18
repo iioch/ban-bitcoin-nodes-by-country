@@ -27,6 +27,10 @@ cd ban-bitcoin-nodes-by-country
 chmod u+x ban.sh   
 ./ban.sh
 ````
+Adjust country shortcode in ban.sh to your needs:
+````
+Shortcode=CN
+````
 
 ### To view banned IP addresses:
 
